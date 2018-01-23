@@ -1,0 +1,9 @@
+.text-input{margin-top:10px}
+.text-input input, .text-input textarea{display:block; margin-bottom:5px; width:500px; padding:5px}
+.check-blog{margin-right:10px; font-size:1.2em}
+.check-blog input{margin-right:3px}
+textarea{height:120px}
+#form-container{float:left}
+p{font-size:0.8em; margin-bottom:3px}
+.error{font-weight:blod; color:#B51F17}
+.more-one{font-size:4em; font-family:Georgia, serif; text-align:center; margin:150px 0}
