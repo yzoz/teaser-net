@@ -1,1 +1,1 @@
-<p>Small CodeIniter PHP+MySQL Application from 2011</p>
+<p>Teaser Net for interesting blogs with traffic+ return. Worked from 2010 to 2012 years. Where are no interesting blogs in those time.. so as like now... :)</p>
